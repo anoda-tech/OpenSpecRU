@@ -15,7 +15,7 @@
 </p>
 
 <details>
-<summary><strong>The most loved spec framework.</strong></summary>
+<summary><strong>Самый любимый фреймворк для спецификаций.</strong></summary>
 
 [![Stars](https://img.shields.io/github/stars/Fission-AI/OpenSpec?style=flat-square&label=Stars)](https://github.com/Fission-AI/OpenSpec/stargazers)
 [![Downloads](https://img.shields.io/npm/dm/@fission-ai/openspec?style=flat-square&label=Downloads/mo)](https://www.npmjs.com/package/@fission-ai/openspec)
@@ -23,14 +23,14 @@
 
 </details>
 <p></p>
-Our philosophy:
+Наша философия:
 
 ```text
-→ fluid not rigid
-→ iterative not waterfall
-→ easy not complex
-→ built for brownfield not just greenfield
-→ scalable from personal projects to enterprises
+→ Гибкий, а не жёсткий
+→ Итеративный, а не каскадный
+→ Простой, а не сложный
+→ Создание не только новых, но и доставшихся по наследству проектов
+→ Масштабируется от личных проектов до корпоративных решений
 ```
 
 > [!TIP]
